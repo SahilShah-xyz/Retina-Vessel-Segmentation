@@ -1,0 +1,508 @@
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Valid loss improved from inf to 1.4187. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 01 | Epoch Time: 2m 32s
+        Train Loss: 1.399     
+         Val. Loss: 1.419     
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:25
+Valid loss improved from 1.4187 to 1.3527. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 02 | Epoch Time: 2m 48s
+        Train Loss: 1.197     
+         Val. Loss: 1.353     
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:24
+Epoch: 03 | Epoch Time: 2m 46s
+        Train Loss: 1.052     
+         Val. Loss: 1.594     
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:09
+Epoch: 04 | Epoch Time: 2m 30s
+        Train Loss: 0.902     
+         Val. Loss: 1.625     
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Valid loss improved from 1.3527 to 1.1877. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 05 | Epoch Time: 2m 33s
+        Train Loss: 0.793     
+         Val. Loss: 1.188     
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Valid loss improved from 1.1877 to 1.1511. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 06 | Epoch Time: 2m 33s
+        Train Loss: 0.716     
+         Val. Loss: 1.151     
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 07 | Epoch Time: 2m 33s
+        Train Loss: 0.651     
+         Val. Loss: 1.156     
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 08 | Epoch Time: 2m 32s
+        Train Loss: 0.602
+         Val. Loss: 1.151
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:14
+Valid loss improved from 1.1511 to 1.1459. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 09 | Epoch Time: 2m 36s
+        Train Loss: 0.555
+         Val. Loss: 1.146
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:13
+Valid loss improved from 1.1459 to 1.1438. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 10 | Epoch Time: 2m 35s
+        Train Loss: 0.524
+         Val. Loss: 1.144
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 11 | Epoch Time: 2m 34s
+        Train Loss: 0.492
+         Val. Loss: 1.144
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Valid loss improved from 1.1438 to 1.1365. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 12 | Epoch Time: 2m 34s
+        Train Loss: 0.471
+         Val. Loss: 1.136
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 13 | Epoch Time: 2m 34s
+        Train Loss: 0.452
+         Val. Loss: 1.165
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 14 | Epoch Time: 2m 34s
+        Train Loss: 0.444
+         Val. Loss: 1.143
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 15 | Epoch Time: 2m 33s
+        Train Loss: 0.430
+         Val. Loss: 1.152
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Valid loss improved from 1.1365 to 1.1229. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 16 | Epoch Time: 2m 32s
+        Train Loss: 0.416
+         Val. Loss: 1.123
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 17 | Epoch Time: 2m 31s
+        Train Loss: 0.401
+         Val. Loss: 1.123
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 18 | Epoch Time: 2m 33s
+        Train Loss: 0.390
+         Val. Loss: 1.145
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 19 | Epoch Time: 2m 33s
+        Train Loss: 0.380
+         Val. Loss: 1.190
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 20 | Epoch Time: 2m 33s
+        Train Loss: 0.374
+         Val. Loss: 1.158
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 21 | Epoch Time: 2m 33s
+        Train Loss: 0.362
+         Val. Loss: 1.131
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 22 | Epoch Time: 2m 33s
+        Train Loss: 0.360
+         Val. Loss: 1.156
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 23 | Epoch Time: 2m 33s
+        Train Loss: 0.356
+         Val. Loss: 1.169
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 24 | Epoch Time: 2m 33s
+        Train Loss: 0.349
+         Val. Loss: 1.174
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 25 | Epoch Time: 2m 33s
+        Train Loss: 0.352
+         Val. Loss: 1.171
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 26 | Epoch Time: 2m 33s
+        Train Loss: 0.349
+         Val. Loss: 1.195
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 27 | Epoch Time: 2m 33s
+        Train Loss: 0.343
+         Val. Loss: 1.177
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 28 | Epoch Time: 2m 33s
+        Train Loss: 0.331
+         Val. Loss: 1.207
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 29 | Epoch Time: 2m 34s
+        Train Loss: 0.329
+         Val. Loss: 1.173
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 30 | Epoch Time: 2m 33s
+        Train Loss: 0.328
+         Val. Loss: 1.207
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Valid loss improved from 1.1229 to 1.1144. Saving checkpoint: ./att_unet_drive_200.pth
+Epoch: 31 | Epoch Time: 2m 33s
+        Train Loss: 0.327
+         Val. Loss: 1.114
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 32 | Epoch Time: 2m 33s
+        Train Loss: 0.323
+         Val. Loss: 1.176
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 33 | Epoch Time: 2m 33s
+        Train Loss: 0.319
+         Val. Loss: 1.339
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 34 | Epoch Time: 2m 33s
+        Train Loss: 0.312
+         Val. Loss: 1.335
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 35 | Epoch Time: 2m 33s
+        Train Loss: 0.310
+         Val. Loss: 1.273
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 36 | Epoch Time: 2m 33s
+        Train Loss: 0.308
+         Val. Loss: 1.199
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 37 | Epoch Time: 2m 32s
+        Train Loss: 0.302
+         Val. Loss: 1.258
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 38 | Epoch Time: 2m 33s
+        Train Loss: 0.300
+         Val. Loss: 1.185
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 39 | Epoch Time: 2m 33s
+        Train Loss: 0.300
+         Val. Loss: 1.263
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 40 | Epoch Time: 2m 33s
+        Train Loss: 0.289
+         Val. Loss: 1.334
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 41 | Epoch Time: 2m 32s
+        Train Loss: 0.287
+         Val. Loss: 1.329
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 42 | Epoch Time: 2m 31s
+        Train Loss: 0.283
+         Val. Loss: 1.385
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 43 | Epoch Time: 2m 32s
+        Train Loss: 0.286
+         Val. Loss: 1.270
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 44 | Epoch Time: 2m 31s
+        Train Loss: 0.289
+         Val. Loss: 1.391
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 45 | Epoch Time: 2m 32s
+        Train Loss: 0.299
+         Val. Loss: 1.355
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 46 | Epoch Time: 2m 33s
+        Train Loss: 0.295
+         Val. Loss: 1.274
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 47 | Epoch Time: 2m 32s
+        Train Loss: 0.293
+         Val. Loss: 1.391
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 48 | Epoch Time: 2m 31s
+        Train Loss: 0.288
+         Val. Loss: 1.348
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 49 | Epoch Time: 2m 32s
+        Train Loss: 0.295
+         Val. Loss: 1.357
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 50 | Epoch Time: 2m 31s
+        Train Loss: 0.317
+         Val. Loss: 1.472
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 51 | Epoch Time: 2m 33s
+        Train Loss: 0.305
+         Val. Loss: 1.475
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 52 | Epoch Time: 2m 33s
+        Train Loss: 0.307
+         Val. Loss: 1.418
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 53 | Epoch Time: 2m 33s
+        Train Loss: 0.299
+         Val. Loss: 1.465
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 54 | Epoch Time: 2m 33s
+        Train Loss: 0.283
+         Val. Loss: 1.343
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 55 | Epoch Time: 2m 33s
+        Train Loss: 0.269
+         Val. Loss: 1.419
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 56 | Epoch Time: 2m 33s
+        Train Loss: 0.258
+         Val. Loss: 1.418
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 57 | Epoch Time: 2m 33s
+        Train Loss: 0.253
+         Val. Loss: 1.422
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 58 | Epoch Time: 2m 33s
+        Train Loss: 0.251
+         Val. Loss: 1.485
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 59 | Epoch Time: 2m 33s
+        Train Loss: 0.253
+         Val. Loss: 1.442
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 60 | Epoch Time: 2m 33s
+        Train Loss: 0.251
+         Val. Loss: 1.392
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 61 | Epoch Time: 2m 33s
+        Train Loss: 0.253
+         Val. Loss: 1.496
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 62 | Epoch Time: 2m 33s
+        Train Loss: 0.262
+         Val. Loss: 1.482
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 63 | Epoch Time: 2m 33s
+        Train Loss: 0.266
+         Val. Loss: 1.500
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 64 | Epoch Time: 2m 33s
+        Train Loss: 0.271
+         Val. Loss: 1.470
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 65 | Epoch Time: 2m 33s
+        Train Loss: 0.270
+         Val. Loss: 1.355
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 66 | Epoch Time: 2m 33s
+        Train Loss: 0.262
+         Val. Loss: 1.446
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 67 | Epoch Time: 2m 33s
+        Train Loss: 0.242
+         Val. Loss: 1.475
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 68 | Epoch Time: 2m 33s
+        Train Loss: 0.231
+         Val. Loss: 1.408
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 69 | Epoch Time: 2m 32s
+        Train Loss: 0.229
+         Val. Loss: 1.476
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 70 | Epoch Time: 2m 31s
+        Train Loss: 0.237
+         Val. Loss: 1.504
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 71 | Epoch Time: 2m 32s
+        Train Loss: 0.248
+         Val. Loss: 1.464
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 72 | Epoch Time: 2m 31s
+        Train Loss: 0.251
+         Val. Loss: 1.415
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 73 | Epoch Time: 2m 32s
+        Train Loss: 0.249
+         Val. Loss: 1.499
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 74 | Epoch Time: 2m 33s
+        Train Loss: 0.239
+         Val. Loss: 1.526
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 75 | Epoch Time: 2m 33s
+        Train Loss: 0.239
+         Val. Loss: 1.507
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 76 | Epoch Time: 2m 33s
+        Train Loss: 0.230
+         Val. Loss: 1.449
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 77 | Epoch Time: 2m 33s
+        Train Loss: 0.225
+         Val. Loss: 1.496
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 78 | Epoch Time: 2m 33s
+        Train Loss: 0.220
+         Val. Loss: 1.536
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:09
+Epoch: 79 | Epoch Time: 2m 31s
+        Train Loss: 0.216
+         Val. Loss: 1.516
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 80 | Epoch Time: 2m 32s
+        Train Loss: 0.217
+         Val. Loss: 1.509
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 81 | Epoch Time: 2m 32s
+        Train Loss: 0.217
+         Val. Loss: 1.508
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 82 | Epoch Time: 2m 32s
+        Train Loss: 0.219
+         Val. Loss: 1.458
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 83 | Epoch Time: 2m 31s
+        Train Loss: 0.219
+         Val. Loss: 1.486
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 84 | Epoch Time: 2m 32s
+        Train Loss: 0.216
+         Val. Loss: 1.464
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:10
+Epoch: 85 | Epoch Time: 2m 31s
+        Train Loss: 0.210
+         Val. Loss: 1.447
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 86 | Epoch Time: 2m 32s
+        Train Loss: 0.209
+         Val. Loss: 1.528
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 87 | Epoch Time: 2m 33s
+        Train Loss: 0.207
+         Val. Loss: 1.568
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 88 | Epoch Time: 2m 33s
+        Train Loss: 0.203
+         Val. Loss: 1.493
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 89 | Epoch Time: 2m 33s
+        Train Loss: 0.200
+         Val. Loss: 1.483
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 90 | Epoch Time: 2m 33s
+        Train Loss: 0.196
+         Val. Loss: 1.580
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 91 | Epoch Time: 2m 34s
+        Train Loss: 0.194
+         Val. Loss: 1.591
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 92 | Epoch Time: 2m 33s
+        Train Loss: 0.193
+         Val. Loss: 1.577
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 93 | Epoch Time: 2m 33s
+        Train Loss: 0.194
+         Val. Loss: 1.521
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 94 | Epoch Time: 2m 33s
+        Train Loss: 0.198
+         Val. Loss: 1.578
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 95 | Epoch Time: 2m 33s
+        Train Loss: 0.203
+         Val. Loss: 1.629
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:12
+Epoch: 96 | Epoch Time: 2m 33s
+        Train Loss: 0.205
+         Val. Loss: 1.596
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 97 | Epoch Time: 2m 33s
+        Train Loss: 0.204
+         Val. Loss: 1.538
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 98 | Epoch Time: 2m 33s
+        Train Loss: 0.202
+         Val. Loss: 1.631
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 99 | Epoch Time: 2m 33s
+        Train Loss: 0.197
+         Val. Loss: 1.601
+
+Working... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:02:11
+Epoch: 100 | Epoch Time: 2m 33s
+        Train Loss: 0.195
+         Val. Loss: 1.580
